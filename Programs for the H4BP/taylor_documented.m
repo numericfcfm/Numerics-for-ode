@@ -9,8 +9,8 @@ lambda1=(3/2)*(1-sqrt(1-3*m+3*m^2)); %evaluation of the parameters lambda
 lambda2=(3/2)*(1+sqrt(1-3*m+3*m^2));
 numvar=7; %number of variables in the augmented vector field
 w(1, :)=x;%saving the vector of initial conditions in a matrix w
-l=2;  %index for the matrix w of approximations of the solution
-i=1;  %index for the vector Times to save the steps in time 
+l=2;  %indexes to handle the arrays containing the approximations
+i=1;  
 flag=1;  %conditional
 
 while flag==1 %main loop to compute the approximation in each step of time
