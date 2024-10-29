@@ -1,7 +1,6 @@
 Archivos de la carpeta Parametrization_method_Lorenz
 
-Precaución. Antes de ejecutar cualquier archivo lea el articulo, El metodo de parametrizacion para variedades invariantes de
-puntos de equilibrio de ecuaciones diferenciales ordinarias. Abstraction &
+Precaución. Antes de ejecutar cualquier archivo lea la versión corregida del articulo, El metodo de parametrizacion para variedades invariantes de puntos de equilibrio de ecuaciones diferenciales ordinarias. Abstraction &
 Application, 30. pp 64-81, (2020), que se encuentra en el repositorio.
 
 1. El archivo parametrization_lorenz.py contiene un programa escrito en Python que calcula
