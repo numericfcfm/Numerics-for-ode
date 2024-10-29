@@ -7,9 +7,7 @@
 %Advertencia. Este programa es una version corregida de la implementacion computacional del
 %metodo presentado en el articulo, El metodo de parametrizacion para variedades invariantes de
 %puntos de equilibrio de ecuaciones diferenciales ordinarias. Abstraction &
-%Application, 30. pp 64-81, (2020). En consecuencia, los resultados
-%proporcionados por este programa no corresponden a los presentados en
-%dicho documento.
+%Application, 30. pp 64-81, (2020). Consulte el archivo corrigendum de este trabajo incluido en el repositorio
 clear 
 close all
 clc
